@@ -1,0 +1,22 @@
+to study bugzilla 
+#Create account and Login: 
+Visit this demo site: https://bugs.freedesktop.org/enter_bug.cgi 
+Click on “New Account” in the main menu:
+Enter email-id: 
+Open the link from your email inbox, and then fill details, then click “Create”: 
+You’ll see that you’re logged-in: 
+#Creating and submitting a Bug-report: 
+a)Detect bug > take its snapshot > save it: 
+Visit http://mu.ac.in/portal/ (or any website you wish to) • 	Take a snapshot stating the bug: 
+Save that snapshot. 
+b)Enter a new bug-report: 
+Visit the demo site and click on “New” in the main menu: 
+Select “DRI(Direct Rendering Infrastructure)” as your product: 
+Click on “Show Advanced Fields”: 
+Fill the details, add an attachment, click “Submit Bug”:  
+#Check status of your bug-report: 
+Search for your bug-id in the main menu search-bar:  
+#Finish! 
+ 
+  
+ 
